@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomyanzhiyuan
 - 👀 I’m interested in ... skiing, running and hitting the gym
 - 🌱 I’m currently learning ... the basics of coding!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... anything! feel free to reach out to me
 - 📫 How to reach me ... tom.orrows on instagram
 
 <!---
