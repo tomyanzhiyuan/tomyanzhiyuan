@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomyanzhiyuan
 - 👀 I’m interested in skiing, running and hitting the gym
-- 🌱 I’m currently learning the basics of coding!
+- 🌱 I’m currently learning C and SwiftUI
 - 💞️ I’m looking to collaborate on anything! feel free to reach out to me
 - 📫 Reach out to me @zhiyuanyan@rochester.edu
 
