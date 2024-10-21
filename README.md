@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tomyanzhiyuan
-- 👀 I’m interested in ... skiing, running and hitting the gym
-- 🌱 I’m currently learning ... the basics of coding!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... tom.orrows on instagram
+- 👀 I’m interested in skiing, running and hitting the gym
+- 🌱 I’m currently learning C, Swift and Python
+- 💞️ I’m looking to collaborate on anything! feel free to reach out to me
+- 📫 Reach out to me @zhiyuanyan@rochester.edu
 
 <!---
 tomyanzhiyuan/tomyanzhiyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
