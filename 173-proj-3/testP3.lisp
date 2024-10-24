@@ -1,5 +1,9 @@
 (load "tomyanzhiyuan/173-proj-3/project3.lisp")
 
+; sbcl
+; (load "tomyanzhiyuan/173-proj-3/testP3.lisp)
+; (run-all-tests)
+
 ;;; Test Helper Function
 (defun run-test (fn args expected)
   (let ((result (apply fn args)))
