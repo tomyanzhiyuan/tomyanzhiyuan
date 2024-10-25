@@ -65,19 +65,18 @@
 
 ;;; Right triangle checker - validates if sides form a right triangle
 (defun .right-tri (a b c)
-  (and (numberp a) (numberp b) (numberp c)    ; Ensure all inputs are numbers
-       (> a 0) (> b 0) (> c 0)                ; Ensure all are positive
+  (and (> a 0) (> b 0) (> c 0)                ; Ensure all are positive
        (= (* c c) (+ (* a a) (* b b)))))      ; Check Pythagorean theorem
 
-;;; Fibonacci number calculator - returns the Nth Fibonacci number
+;;; Fibonacci helper
+(defun .fibo-helper (n a b)              
+  (cond ((< n 0) nil)                     ; Handle negative
+        ((= n 0) a)                       ; Base case
+        (t (.fibo-helper (- n 1) b (+ a b)))))
+        
+;;; main Fibonacci func
 (defun .nth-fibo (n)
-  (labels ((fibo-iter (n a b)
-                      (cond ((< n 0) nil)               ; Handle negative numbers
-                        ((= n 0) a)                 ; Base case
-                        (t (fibo-iter (- n 1) b (+ a b))))))
-          (fibo-iter n 0 1)))
-
-          ;;; check fibo and right-tri functions --> numberp and fibo-iter features --> can i use them? if not manually code helper function
+  (.fibo-helper n 0 1))
 
 ;;; Power function - computes X raised to power Y
 (defun .pow (x y)
