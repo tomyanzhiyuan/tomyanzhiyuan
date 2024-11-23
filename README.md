@@ -1,9 +1,8 @@
-# Hi there, I'm Zhiyuan Yan 👋
+# Hi there, I'm Tom Yan 👋
 
 I'm an undergraduate student at University of Rochester majoring in Computer Science. With a strong academic foundation and hands-on project experience, I am passionate about software development, data analysis, and creating impactful solutions. My diverse background includes military leadership experience and data analysis internship, demonstrating my ability to excel in both team-based and technical environments.
 
 ## Skills
-
 ### Programming Languages
 Java, Python, C, C#, Swift
 
@@ -11,7 +10,6 @@ Java, Python, C, C#, Swift
 GitHub, Visual Studio, Docker, Xcode, Unity, Pandas
 
 ## Projects
-
 ### University of Rochester, Department of Physics and Astronomy
 *Research Assistant | February 2024 - May 2024*
 - Collaborated on asteroid deflection research using Pandas for data analysis
@@ -25,11 +23,9 @@ GitHub, Visual Studio, Docker, Xcode, Unity, Pandas
 - Led a cross-functional team of 3 to deliver a working prototype within hackathon timeframe
 
 ## Education
-
 **University of Rochester** - Rochester, NY  
 Bachelor of Science in Computer Science  
 *Anticipated May 2027*
-
 ---
 📫 Contact: zhiyuanyan@rochester.edu
 💼 LinkedIn: https://www.linkedin.com/in/tomyanzhiyuan2027/
