@@ -30,8 +30,6 @@ GitHub, Visual Studio, Docker, Xcode, Unity, Pandas
 Bachelor of Science in Computer Science  
 *Anticipated May 2027*
 
-## Interests
-Badminton, Cycling, Skiing, Photography
 ---
 📫 Contact: zhiyuanyan@rochester.edu
 💼 LinkedIn: https://www.linkedin.com/in/tomyanzhiyuan2027/
