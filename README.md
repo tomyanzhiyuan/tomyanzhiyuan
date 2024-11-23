@@ -33,6 +33,5 @@ Bachelor of Science in Computer Science
 ## Interests
 Badminton, Cycling, Skiing, Photography
 ---
-📫 Contact: zhiyuanyan@rochester.edu | (201) 293-9096
-💼 LinkedIn | GitHub
-📄 Resume
+📫 Contact: zhiyuanyan@rochester.edu
+💼 LinkedIn: https://www.linkedin.com/in/tomyanzhiyuan2027/
