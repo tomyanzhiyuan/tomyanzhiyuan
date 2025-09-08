@@ -29,3 +29,5 @@ Bachelor of Science in Computer Science
 ---
 📫 Contact: zhiyuanyan@rochester.edu
 💼 LinkedIn: https://www.linkedin.com/in/tomyanzhiyuan2027/
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tomyanzhiyuan/Test)
