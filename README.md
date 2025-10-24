@@ -8,7 +8,7 @@ Bachelor of Science in Computer Science
 *Anticipated May 2027*
 
 ## Full Send. Pull the Trigger.
-####https://tomyanz.figma.site/
+#### [tomyanz.figma.site](https://tomyanz.figma.site/)
 
 ---
 📫 Contact: zhiyuanyan@rochester.edu
