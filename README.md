@@ -7,7 +7,7 @@ I'm an undergraduate student at University of Rochester majoring in Computer Sci
 Bachelor of Science in Computer Science  
 *Anticipated May 2027*
 
-## Full Send. Pull the Trigger.
+## Full Send.
 #### [tomyanz.figma.site](https://tomyanz.figma.site/)
 
 ---
