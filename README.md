@@ -4,7 +4,7 @@ I'm an undergraduate student at University of Rochester majoring in Computer Sci
 
 ## Education
 **University of Rochester** - Rochester, NY  
-Bachelor of Science in Computer Science  
+Computer Science  
 *Anticipated May 2027*
 
 ## Full Send.
