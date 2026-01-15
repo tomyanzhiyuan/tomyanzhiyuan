@@ -11,7 +11,7 @@ Computer Science
 #### [tomyanz.figma.site](https://tomyanz.figma.site/)
 
 ---
-📫 Contact: zhiyuanyan@rochester.edu
-💼 LinkedIn: https://www.linkedin.com/in/tomyanzhiyuan2027/
+📫 Contact: tom@tomyanz.com
+💼 LinkedIn: https://www.linkedin.com/in/tomyanzhiyuan/
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tomyanzhiyuan)
