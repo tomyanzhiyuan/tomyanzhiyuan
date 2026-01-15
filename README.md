@@ -8,7 +8,7 @@ Computer Science
 *Anticipated May 2027*
 
 ## Full Send.
-#### [tomyanz.figma.site](https://tomyanz.figma.site/)
+#### [tomyanz.com](https://tomyanz.com/)
 
 ---
 📫 Contact: tom@tomyanz.com
